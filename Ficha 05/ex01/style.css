@@ -1,0 +1,20 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: arial;
+    font-size: 16px;
+
+}
+.headline{
+    font-size: 40px;
+}
+
+.paragraph{
+    max-width: 800px;
+    max-height: 240px;
+}
+
+.image{
+    width: 1000;
+}
+

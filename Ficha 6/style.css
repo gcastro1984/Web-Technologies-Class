@@ -1,0 +1,28 @@
+body{
+    background-color: #070606;
+    font-family: Raleway;
+
+}
+
+.headline {
+    color: #FFFFFF;
+    text-transform: capitalize;
+}
+
+.paragraph{
+    color: #BDBDBD;
+}
+
+.get_start{
+    width: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #2B892E;
+    color:#FFFFFF;
+    border-radius: 20px
+
+}
+
+.hero_image{
+    padding-top: 10px;
+}
