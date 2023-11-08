@@ -1,19 +1,27 @@
 body{
     background-color: #070606;
     font-family: Raleway;
+    
 
 }
-
-.headline {
+.hero{
+    max-width: 25%;
+    padding: 2px;
+    
+}
+.hero_headline{
+    font-family: Raleway;
     color: #FFFFFF;
     text-transform: capitalize;
+    font-size:xx-large
+     
 }
 
-.paragraph{
+.hero_paragraph{
     color: #BDBDBD;
 }
 
-.get_start{
+.hero_get_start{
     width: 100px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -24,5 +32,8 @@ body{
 }
 
 .hero_image{
-    padding-top: 10px;
+    padding-top: 20px;
+    width: 600px;
+
+    
 }
