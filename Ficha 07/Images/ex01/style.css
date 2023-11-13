@@ -1,0 +1,15 @@
+body{
+    background-color: #000000
+}
+
+.hero{
+    padding: 80px;
+    display:flex;
+    justify-content: center;
+    position: absolute;
+}
+
+.hero_image{
+    width: 300px;
+    position:relative
+}
