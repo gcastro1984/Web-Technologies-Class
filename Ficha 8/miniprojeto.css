@@ -1,0 +1,18 @@
+:root{
+
+    --color-orange:#db8000;
+
+}
+
+
+color: 
+var:(--color-orange)
+
+html{
+    font-size: calc(100vw/1920*10) /*definir tamanho inicial*/
+}
+
+
+h1{
+    font-size: 20rem; /*ajustar em funcao do tamanho original*/
+}
