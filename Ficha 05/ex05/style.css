@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@300;400;500;600;700&family=Poppins:wght@400;500;700&display=swap");
+body{
+    background: #1a1a1a;
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Lexend";
+    font-weight: 300;
+    line-height: 150%;
+}
+
+.hero {
+    padding: 80px;
+  }
+
+.hero_headline{
+    font-weight: 500;
+    font-size: 48px;
+    max-width: 830px;
+    margin: 0 0 10px;
+    line-height: 150%;
+    text-transform: capitalize;
+}
+
+.hero_headline span{
+    color: #caff33;
+}
+
+.hero_paragraph{
+    max-width: 830px;
+    color:#E4E4E7;
+    margin: 0 0 40px;
+}
+
+.hero_button{
+    color:#1C1C1C ;
+    background-color:#caff33 ;
+    border-radius: 82px;
+    padding: 16px 24px;
+    text-decoration:none;
+}

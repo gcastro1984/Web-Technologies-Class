@@ -1,0 +1,11 @@
+div{ text-transform: uppercase; }
+
+.div_form {
+    width: 300px;
+    border: 75px solid green;
+    padding: 25px;
+    margin: 25px;
+    background-color: rgb(68, 41, 7);
+
+    }
+    
